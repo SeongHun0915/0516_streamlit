@@ -1,2 +1,2 @@
-matplotlib.pyplot
+matplotlib  #모듈이 없으므로 생략하는 것 (.pyplot)
 numpy
